@@ -6,5 +6,9 @@
 	<version>1.0</version>
 	<packaging>pom</packaging>
 	
-		
+	<modules>
+		<module>bank.account.core</module>
+		<module>bank.account.cmd.api</module>
+		<module>bank.account.query.api</module>
+	</modules>
 </project>
